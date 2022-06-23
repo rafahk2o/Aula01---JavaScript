@@ -1,4 +1,4 @@
-// // String tCaractere
+// String tCaractere
 // Int - Inteiro
 // Float - Reais
 
@@ -20,10 +20,10 @@
 
 // nome idade cargo salario
 
-let nome = prompt("Digite o seu nome: ")
-let idade = prompt("Digite a sua idade: ")
-let cargo = prompt("Digite o seu cargo: ")
-let salario = prompt("Digite o seu salário: ")
+let nome = prompt("Digite o seu nome: ");
+let idade = prompt("Digite a sua idade: ");
+let cargo = prompt("Digite o seu cargo: ");
+let salario = prompt("Digite o seu salário: ");
 
 // console.log(nome + " com a idade de: " + idade + " anos " + " tem o cargo de: " +  cargo + " e ganha um salário de: " + salario + " reais .");
 
